@@ -1,4 +1,4 @@
-## Wenxuan Fang 👋
+## Athena Fang 👋
 
 **PhD Researcher** · Electrical Engineering, CXI Group, EPFL, Switzerland
 
