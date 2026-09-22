@@ -2,7 +2,7 @@
 
 **PhD Researcher** · Electrical Engineering, CXI Group, EPFL, Switzerland
 
-I work on computed tomography and laminography reconstruction, building and benchmarking methods that turn raw synchrotron X-ray data into high quality 3D reconstructions. My work spans classical filtered backprojection, gradient-descent optimization, and learned reconstruction (LUCID), also I try to make large-scale reconstruction possible.
+I work on computed tomography and laminography reconstruction, building and benchmarking methods that turn raw synchrotron X-ray data into high quality 3D reconstructions. My work spans classical filtered backprojection, gradient-descent optimization, and learned reconstruction, also I try to make large-scale reconstruction possible.
 
 ```
 Interests:  Inverse Problems · 3D Reconstruction · AI4Science · Computational Imaging
